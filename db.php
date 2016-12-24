@@ -1,7 +1,7 @@
 ﻿<?
-    $localhost="db.webspace.uz";
-	$user="buxdu_demo";
-	$password="QVP~v3Mbboru";
-	$db="buxdu_atm";
+    $localhost="localhost";
+	$user="root";
+	$password="";
+	$db="yii";
 	$conn=mysqli_connect($localhost,$user,$password,$db);
 ?>
